@@ -34,7 +34,7 @@ Type: `number`
 
 Starting range specified in milliseconds.
 
-####  maxMilliseconds
+#### maxMilliseconds
 
 Type: `number`
 
