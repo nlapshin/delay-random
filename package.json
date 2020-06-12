@@ -1,0 +1,31 @@
+{
+  "name": "delay-random",
+  "version": "1.0.0",
+  "description": "Delay a promise a random amount of time set in the interval",
+  "main": "index.js",
+  "dependencies": {
+    "delay": "^4.3.0",
+    "random-int": "^2.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nlapshin/delay-random.git"
+  },
+  "keywords": [
+    "delay",
+    "random"
+  ],
+  "author": {
+    "name": "Nikolay Lapshin",
+    "email": "nlapshin1989@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nlapshin/delay-random/issues"
+  },
+  "homepage": "https://github.com/nlapshin/delay-random#readme"
+}
