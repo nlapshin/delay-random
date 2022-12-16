@@ -1,6 +1,6 @@
 {
   "name": "delay-random",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Delay a promise a random amount of time set in the interval",
   "main": "index.js",
   "dependencies": {
